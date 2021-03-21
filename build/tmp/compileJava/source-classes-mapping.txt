@@ -1,0 +1,2 @@
+com/study/springaws/springboot/Application.java
+ com.study.springaws.springboot.Application
